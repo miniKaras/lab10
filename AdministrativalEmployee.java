@@ -14,7 +14,7 @@ public class AdministrativalEmployee extends Employee {
         public static void main(String[] args) {
             Employee admin = new AdministrativalEmployee(1111, "Карасев Артем", "akarasev204@gmail.com");
             Faculty faculty = new Faculty(new AdministrativalEmployee(1, "Александр Крыловецкий", "fcs@vsu.ru"), "ФКН");
-            ResearchEmployee sciEmpl = new ResearchEmployee(2, "Алексей Гавшиy", "gavsku@vsu.ru", "Программирование");
+            ResearchEmployee sciEmpl = new ResearchEmployee(2, "Алексей Гавшин", "gavsku@vsu.ru", "Программирование");
             String adminString = admin.toString();
             String facultyString = faculty.toString();
             String sciEmplString = sciEmpl.toString();
