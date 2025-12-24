@@ -1,0 +1,7 @@
+# Карасев Артем Евгеньевич, 3 курс, 14 группа*
+
+![image](https://private-user-images.githubusercontent.com/188783565/530052659-20b992a1-5015-467f-83ec-dbca9e56fb9e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY1OTMyNzMsIm5iZiI6MTc2NjU5Mjk3MywicGF0aCI6Ii8xODg3ODM1NjUvNTMwMDUyNjU5LTIwYjk5MmExLTUwMTUtNDY3Zi04M2VjLWRiY2E5ZTU2ZmI5ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIyNFQxNjE2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMmZmYjk3OTdlZGJmYmQ3YmQ1N2NmZmZkMDI0Y2ZkMjNlZTE2MjRhMjNkZGRjYjI2NTc2NzA1MThhZDE1YWU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bhyTk6wp8rHDUvYukb_ObzYNnDmBPNfKGXv2Pktopw8)
+![image](https://github.com/user-attachments/assets/51edcef1-738b-4020-8f0d-977cc6376a1c)
+![image](https://github.com/user-attachments/assets/c1343755-a94c-43ef-aaa3-9c6569d1b379)
+![image](https://github.com/user-attachments/assets/0b4467ad-ff70-416c-a684-2b2dd295ff0a)
+![image](https://github.com/user-attachments/assets/95cb96b1-12ef-444f-8649-f28a909f7ddd)
